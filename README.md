@@ -3,10 +3,10 @@
 ----
 This roadmap was created for my own study goals.
 
-The main ridge of the road map has been taken from the https://teachyourselfcs.com/, 
-also i added links to additional resources that recommended that guy 
-(Vlad Ten https://www.youtube.com/watch?v=X-tlxRa-MP4). 
-Finally, i added my own collections of resources on what i recommend to pass or what i plan to study in the future.
+The main ridge of the road map has been taken from the [Teach Yourself Computer Science](https://teachyourselfcs.com/), 
+also I added links to additional resources that recommended [that guy](https://www.youtube.com/watch?v=X-tlxRa-MP4). 
+Finally, I added my own collections of resources on what I recommend to pass or what i plan to study in the future.
+
 ----
 
 _Advice from authors of teachyourselfcs.com If you are a newbie in programming, for beginning let's try this path:_ 
