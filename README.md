@@ -177,7 +177,8 @@ additional
 2. [ ] book Artificial Intelligence: A Modern Approach.
 ----
 ## ML
-* later
+1. [ ] [Stanford, Andrew Ng- Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+2. later
 ----
 ## Computer graphics
 1. [ ] [CS184 Computer Graphics, Fall 2012](https://inst.eecs.berkeley.edu//~cs184/fa12/onlinelectures.html)
