@@ -21,6 +21,7 @@ https://www.reddit.com/r/learnprogramming/wiki/faq/#wiki_getting_started
 
 1. [OSSU](https://github.com/ossu/computer-science)
 2. [AI community](https://huggingface.co/)
+3. [BUILD YOUR OWN](https://github.com/codecrafters-io/build-your-own-x)
 
 ----
 
